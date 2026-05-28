@@ -40,7 +40,7 @@ I'm currently open to:
 
 ## Milk & Honey — Agritech Farm Management Platform
 
-🔗 https://github.com/Arya-12234/Milk_Hone
+🔗 https://github.com/Arya-12234/Milk_Honey
 
 An intelligent agritech platform leveraging IoT sensor data, machine learning, and predictive analytics to help farmers make data-driven decisions and improve yields.
 
