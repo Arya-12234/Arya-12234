@@ -1,14 +1,25 @@
-# Hi, I'm Winnie Mutheu 
+Hi there 👋, I'm Winnie Mutheu
 
-Backend Software Engineer based in Nairobi, Kenya 🇰🇪
+Software Engineer | Data Analyst | AI & Machine Learning Enthusiast
+I'm a Software Engineer and Data Analyst from Kenya with experience building scalable web applications, analyzing data to generate actionable insights, and developing AI-powered solutions.
 
-I build APIs, distributed systems, and data-driven platforms using Python and Django. I have 2+ years of experience developing real-world backend systems and enjoy solving infrastructure, scalability, and data problems.
+My expertise spans:
+•	Backend Development with Python, Django, Flask, and REST APIs
+•	Frontend Development with React and JavaScript
+•	Data Analysis using Python, SQL, Pandas, NumPy, and Data Visualization
+•	Machine Learning and Artificial Intelligence
+•	IoT and Smart Agriculture Solutions
+•	Database Design and Management (PostgreSQL, MySQL, Supabase)
+
 
 I'm currently open to:
 
-* Remote Backend Engineering roles
-* Full-Stack Development opportunities
-* Data Engineering & API-focused positions
+* Backend Engineering (Python/Django)
+* Full-Stack Development (React + Django)
+* Data Analytics & Business Intelligence
+* Data Engineering & API Development
+* AI/Machine Learning Projects
+* Remote and International Opportunities
 
 ---
 
@@ -26,9 +37,8 @@ I'm currently open to:
 
 `React` `HTML` `CSS`
 
-## Data & AI
-
-`Data Analysis` `Predictive Analytics` `Machine Learning`
+## Data & Analytics
+Data Analysis Predictive Analytics Machine Learning Data Visualization Excel Power BI Pandas NumPy
 
 ## Tools & Infrastructure
 
